@@ -5,7 +5,7 @@ import (
 	"bytes"
 	"crypto/aes"
 	"crypto/cipher"
-	"crypto/rand"
+	"math/rand"
 	"crypto/sha256"
 	"errors"
 )
